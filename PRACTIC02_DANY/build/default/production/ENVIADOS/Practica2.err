@@ -1,0 +1,13 @@
+Warning[207] ENVIADOS\PRACTICA2.ASM 2 : Found label after column 1. (DATO1)
+Warning[207] ENVIADOS\PRACTICA2.ASM 3 : Found label after column 1. (DATO2)
+Warning[207] ENVIADOS\PRACTICA2.ASM 4 : Found label after column 1. (DATO3)
+Warning[207] ENVIADOS\PRACTICA2.ASM 5 : Found label after column 1. (LUZ)
+Message[302] C:\USERS\ACER\DOCUMENTS\1. UPIITA\5° SEMESTRE\MICROPROCESADORES\PRÁCTICAS\PRACTICA02\HEAD.INC 22 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\ACER\DOCUMENTS\1. UPIITA\5° SEMESTRE\MICROPROCESADORES\PRÁCTICAS\PRACTICA02\HEAD.INC 23 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] ENVIADOS\PRACTICA2.ASM 10 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] ENVIADOS\PRACTICA2.ASM 11 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] ENVIADOS\PRACTICA2.ASM 13 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[305] C:\USERS\ACER\DOCUMENTS\1. UPIITA\5° SEMESTRE\MICROPROCESADORES\PRÁCTICAS\PRACTICA02\SERIE_LEDS.INC 8 : Using default destination of 1 (file).
+Message[305] C:\USERS\ACER\DOCUMENTS\1. UPIITA\5° SEMESTRE\MICROPROCESADORES\PRÁCTICAS\PRACTICA02\SERIE_LEDS.INC 13 : Using default destination of 1 (file).
+Message[305] C:\USERS\ACER\DOCUMENTS\1. UPIITA\5° SEMESTRE\MICROPROCESADORES\PRÁCTICAS\PRACTICA02\SERIE_LEDS.INC 17 : Using default destination of 1 (file).
+Warning[208] C:\USERS\ACER\DOCUMENTS\1. UPIITA\5° SEMESTRE\MICROPROCESADORES\PRÁCTICAS\PRACTICA02\SERIE_LEDS.INC 38 : Label truncated at 32 characters. (_________________________LUCES______________________________________________)
